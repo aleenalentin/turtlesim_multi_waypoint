@@ -1,0 +1,3 @@
+geometry_msgs/Twist twist  # expresses velocity in 3D free space 
+---
+TurtleVel turtle_vel  # custom message that contains only planar velocity components
