@@ -24,4 +24,4 @@ roslaunch turtle_control waypoint_follow.launch
 
 Click on the following image to see the demo video
 
-[![Introduction Video](https://img.youtube.com/vi/CwVX2LkUVKc/0.jpg)](https://youtu.be/CwVX2LkUVKc)
+[![Introduction Video](https://img.youtube.com/vi/j3yOLoU72Eg/0.jpg)](https://youtu.be/j3yOLoU72Eg)
