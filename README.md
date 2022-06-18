@@ -1,4 +1,4 @@
-# Turtlesim_Multiple_Waypoint_control
+# Turtlesim_Multi_Waypoint
 To move the turtle through multiple waypoints 
 # To run the code:
 
