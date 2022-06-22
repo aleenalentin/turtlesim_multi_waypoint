@@ -22,6 +22,8 @@ To move the turtle through multiple waypoints
 ```
 # Demo 
 
-Click on the following image to see the demo video
 
-[![Introduction Video](https://img.youtube.com/vi/j3yOLoU72Eg/0.jpg)](https://youtu.be/j3yOLoU72Eg)
+
+![gif](https://user-images.githubusercontent.com/20817830/174976499-ccb751a5-70d0-417c-af4f-c149c0283808.gif)
+
+
