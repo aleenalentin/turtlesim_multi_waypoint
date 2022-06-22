@@ -1,10 +1,14 @@
-# Turtlesim_Multi_Waypoint
+# turtlesim_multi_waypoint
 To move the turtle through multiple waypoints 
 # To run the code:
 
 1. Create a new ROS workspace
+```Shell
+mkdir -p ws/src
+   ```
 2. Clone the code 
  ```Shell
+ cd ws/src
  https://github.com/aleenalentin/Turtlesim_Multiple_Waypoint_control.git
  ```
 3. Return to workspace root
