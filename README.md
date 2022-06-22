@@ -6,15 +6,16 @@ To move the turtle through multiple waypoints
 ```Shell
   mkdir -p ~/catkin_ws/src
   cd  ~/catkin_ws/src
-  catkin_make 
-  source devel/setup.bash
+  
+ 
    ```
 2.After creating the workspace clone the repository
  ```Shell
  cd  ~/catkin_ws/src
- https://github.com/aleenalentin/Turtlesim_Multiple_Waypoint_control.git
+ https://github.com/aleenalentin/turtlesim_multi_waypoint.git
  cd ..
  catkin_make
+  source ~/catkin_ws/devel/setup.bash
  ```
 3.  Launch the nodes.
 ```Shell
