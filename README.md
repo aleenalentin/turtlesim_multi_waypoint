@@ -15,7 +15,7 @@ To move the turtle through multiple waypoints
  https://github.com/aleenalentin/turtlesim_multi_waypoint.git
  cd ..
  catkin_make
-  source ~/catkin_ws/devel/setup.bash
+ source ~/catkin_ws/devel/setup.bash
  ```
 3.  Launch the nodes.
 ```Shell
@@ -28,3 +28,5 @@ To move the turtle through multiple waypoints
 ![gif](https://user-images.githubusercontent.com/20817830/174976499-ccb751a5-70d0-417c-af4f-c149c0283808.gif)
 
 
+# Youtube Link 
+[![Introduction Video](https://img.youtube.com/vi/j3yOLoU72Eg/0.jpg)](https://www.youtube.com/watch?v=j3yOLoU72Eg)
