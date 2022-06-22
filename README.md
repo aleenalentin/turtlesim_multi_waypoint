@@ -4,19 +4,21 @@ To move the turtle through multiple waypoints
 
 1. Create a new ROS workspace
 ```Shell
-mkdir -p ws/src
+ mkdir -p ~/catkin_ws/src
    ```
 2. Clone the code 
  ```Shell
- cd ws/src
+ cd  ~/catkin_ws/src
  https://github.com/aleenalentin/Turtlesim_Multiple_Waypoint_control.git
  ```
 3. Return to workspace root
  ```Shell
  cd ../
+
    ```
 4. Build the workspace 
 ```Shell
+cd ~/catkin_ws/
 catkin_make 
 
 ``` 
