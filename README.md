@@ -2,29 +2,23 @@
 To move the turtle through multiple waypoints 
 # To run the code:
 
-1. Create a new ROS workspace
+1. To simulate turtlesim_multi_waypoint, the first step is to create a New ROS workspace
 ```Shell
- mkdir -p ~/catkin_ws/src
+  mkdir -p ~/catkin_ws/src
+  cd  ~/catkin_ws/src
+  catkin_make 
+  source devel/setup.bash
    ```
-2. Clone the code 
+2.After creating the workspace clone the repository
  ```Shell
  cd  ~/catkin_ws/src
  https://github.com/aleenalentin/Turtlesim_Multiple_Waypoint_control.git
+ cd ..
+ catkin_make
  ```
-3. Return to workspace root
- ```Shell
- cd ../
-
-   ```
-4. Build the workspace 
+3.  Launch the nodes.
 ```Shell
-cd ~/catkin_ws/
-catkin_make 
-
-``` 
-5.  Launch the nodes.
-```Shell
-roslaunch turtle_control waypoint_follow.launch 
+ roslaunch turtle_control waypoint_follow.launch 
 ```
 # Demo 
 
