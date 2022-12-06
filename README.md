@@ -9,7 +9,7 @@ To move the turtle through multiple waypoints
 2.After creating the workspace clone the repository
  ```Shell
  cd  ~/catkin_ws/src
- https://github.com/aleenalentin/turtlesim_multi_waypoint.git
+ git clone https://github.com/aleenalentin/turtlesim_multi_waypoint.git
  cd ..
  catkin_make
  source ~/catkin_ws/devel/setup.bash
